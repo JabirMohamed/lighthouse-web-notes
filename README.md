@@ -1,4 +1,5 @@
 # Jabir Mohamed's Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+## Summary
+
+This repository contains all of the notes taken by [Jabir Mohamed](https://github.com/JabirMohamed) at the [LightHouse Lab](https://www.lighthouselabs.ca/) web development boot camp.
